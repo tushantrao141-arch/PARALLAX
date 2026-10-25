@@ -1,0 +1,14 @@
+{
+  "name": "parallax-social-deduction",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PARALLAX — a real-time social deduction mystery game",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
