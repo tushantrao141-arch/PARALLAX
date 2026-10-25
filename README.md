@@ -26,6 +26,8 @@ Open `http://localhost:3100` **while the terminal remains open**. On Windows you
 
 This project includes `render.yaml`, which tells Render to build it with `npm ci` and run it using `npm start`.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tushantrao141-arch/PARALLAX)
+
 1. Push this project to a GitHub repository.
 2. In Render, choose **New +** → **Blueprint**, then select that repository.
 3. Confirm the detected `parallax-social-deduction` web service and click **Apply**.
