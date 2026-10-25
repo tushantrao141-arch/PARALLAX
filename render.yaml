@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: parallax-social-deduction
+    name: parallax-tushantrao
     runtime: node
     plan: free
     buildCommand: npm ci
